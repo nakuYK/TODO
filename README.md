@@ -3,7 +3,7 @@
 >此项目基于慕课网Jokcy老师的<a href="https://www.imooc.com/learn/935">Vue+Webpack打造todo应用</a>视频教程编写。
 
 #### 版本：
-Vue：2.6.8
+Vue：2.6.8 
 webpack：4.29.6
 #### 注意：
 在webpack版本4.0.0以上，某些API发生了更改，所以源码和Jokcy老师的会有所不同。如果你是webpack版本4.0.0以上，可以参考一下我的源码。
